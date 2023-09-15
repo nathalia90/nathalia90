@@ -1,4 +1,4 @@
-### Hello, everyone! Sou Nathalia Loureiro. Bem-vindos ao meu GitHub. 👋
+### Hello, everyone! Sou Nathalia Loureiro. Bem-vindos ao meu GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-loureiro-7a1822238/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nathalia_loureiro/)
